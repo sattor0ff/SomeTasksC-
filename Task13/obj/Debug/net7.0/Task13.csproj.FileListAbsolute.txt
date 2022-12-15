@@ -1,0 +1,15 @@
+D:\CSharpPractices\HomeWork13.12\Task13\bin\Debug\net7.0\Task13.exe
+D:\CSharpPractices\HomeWork13.12\Task13\bin\Debug\net7.0\Task13.deps.json
+D:\CSharpPractices\HomeWork13.12\Task13\bin\Debug\net7.0\Task13.runtimeconfig.json
+D:\CSharpPractices\HomeWork13.12\Task13\bin\Debug\net7.0\Task13.dll
+D:\CSharpPractices\HomeWork13.12\Task13\bin\Debug\net7.0\Task13.pdb
+D:\CSharpPractices\HomeWork13.12\Task13\obj\Debug\net7.0\Task13.csproj.AssemblyReference.cache
+D:\CSharpPractices\HomeWork13.12\Task13\obj\Debug\net7.0\Task13.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpPractices\HomeWork13.12\Task13\obj\Debug\net7.0\Task13.AssemblyInfoInputs.cache
+D:\CSharpPractices\HomeWork13.12\Task13\obj\Debug\net7.0\Task13.AssemblyInfo.cs
+D:\CSharpPractices\HomeWork13.12\Task13\obj\Debug\net7.0\Task13.csproj.CoreCompileInputs.cache
+D:\CSharpPractices\HomeWork13.12\Task13\obj\Debug\net7.0\Task13.dll
+D:\CSharpPractices\HomeWork13.12\Task13\obj\Debug\net7.0\refint\Task13.dll
+D:\CSharpPractices\HomeWork13.12\Task13\obj\Debug\net7.0\Task13.pdb
+D:\CSharpPractices\HomeWork13.12\Task13\obj\Debug\net7.0\Task13.genruntimeconfig.cache
+D:\CSharpPractices\HomeWork13.12\Task13\obj\Debug\net7.0\ref\Task13.dll
